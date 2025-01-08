@@ -1,0 +1,32 @@
+DT_NOTIFIC  ==>     Data da notificação (3)
+NU_ANO      ==>     Ano da notificação 
+ID_UNIDADE  ==>     Código da UBS (6)
+CS_GESTANT  ==>     Trimestre gestacional do diagnóstico (12)
+CS_RACA     ==>     Raça da gestante (13)
+CS_ESCOL_N  ==>     Grau de escolaridade da gestante (14)
+CS_ZONA     ==>     Zona de residência (29)
+TPTESTE1    ==>     Tipo de teste utilizado (40)
+TPESQUEMA   ==>     Esquema de tratamento (41)
+TRATPARC    ==>     Tratamento do parceiro (42)
+
+
+1352 pessoas foram às UBSs fazer teste de sífilis elas tem diversos [Quem são as amostragens]:
+{
+Graus de esocolaridade
+Zonas de residência
+Raças
+}
+
+Tudo isso aconteceu em[tempo] e [espaço]:
+{
+Datas específicas
+dentro de UBSs específicas
+Em um trimestre gestacional específico
+}
+
+De modo que todas elas tinham específicos [Características médicas]:
+{
+Tipos de testes utilizados
+Esquemas de tratamentos
+Tratamentos dos parceiros
+}

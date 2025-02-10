@@ -1,0 +1,110 @@
+1. Associações Demográficas e Sociais
+Raça da Gestante x Zona de Residência:
+Avaliar se há uma associação entre a raça da gestante e o local onde residem (urbano, rural, etc.).
+
+Método: Teste qui-quadrado ou análise de correspondência.
+
+Grau de Escolaridade x Zona de Residência:
+Identificar padrões de escolaridade entre zonas de residência. Por exemplo, gestantes em áreas rurais têm menos acesso à educação formal?
+
+Método: Teste qui-quadrado.
+
+Raça da Gestante x Grau de Escolaridade:
+Investigar disparidades educacionais entre diferentes grupos raciais.
+
+Método: Teste qui-quadrado.
+
+2. Associações com Trimestre Gestacional
+Trimestre Gestacional x Zona de Residência:
+Existe relação entre o trimestre gestacional do diagnóstico e o local de residência? Gestantes de zonas rurais são diagnosticadas mais tardiamente?
+
+Método: Teste qui-quadrado ou regressão logística ordinal.
+
+Trimestre Gestacional x Tipo de Teste Utilizado:
+Os testes utilizados (rápidos, laboratoriais) variam conforme o trimestre de diagnóstico?
+
+Método: Teste qui-quadrado.
+
+Trimestre Gestacional x Esquema de Tratamento:
+Gestantes diagnosticadas em trimestres diferentes recebem esquemas de tratamento diferentes?
+
+Método: Teste qui-quadrado.
+
+3. Associações de Qualidade do Atendimento
+Esquema de Tratamento x Zona de Residência:
+O tipo de esquema de tratamento varia entre zonas urbanas e rurais?
+
+Método: Teste qui-quadrado.
+
+Tipo de Teste Utilizado x Zona de Residência:
+Gestantes em áreas rurais têm acesso prioritário a testes rápidos em comparação com áreas urbanas?
+
+Método: Teste qui-quadrado ou análise multivariada de correspondência.
+
+Adesão ao Tratamento do Parceiro x Trimestre Gestacional:
+Há maior adesão do parceiro ao tratamento quando a gestante é diagnosticada no primeiro trimestre?
+
+Método: Teste qui-quadrado ou regressão logística.
+
+4. Associações sobre Disparidades
+Raça da Gestante x Adesão ao Tratamento do Parceiro:
+Existe disparidade racial na adesão ao tratamento do parceiro?
+
+Método: Teste qui-quadrado ou regressão logística.
+
+Raça da Gestante x Tipo de Teste Utilizado:
+Grupos raciais diferentes têm acesso a diferentes tipos de testes?
+
+Método: Teste qui-quadrado ou regressão logística.
+
+Escolaridade x Esquema de Tratamento:
+O nível de escolaridade da gestante está associado à escolha ou efetividade do esquema de tratamento?
+
+Método: Teste qui-quadrado ou regressão logística multinomial.
+
+5. Associações de Tempo e Local
+Ano da Notificação x Zona de Residência:
+Houve mudanças no padrão de notificações por zona de residência ao longo do tempo?
+
+Método: Teste qui-quadrado para independência temporal ou análise de tendências.
+
+Ano da Notificação x Tipo de Teste Utilizado:
+Avalie se houve uma mudança nos tipos de testes usados ao longo do tempo.
+
+Método: Teste qui-quadrado ou regressão logística.
+
+6. Associações Multivariadas
+Para análises mais complexas, você pode explorar interações entre três ou mais variáveis:
+
+Raça x Zona de Residência x Tipo de Teste Utilizado:
+Existe uma interação entre raça, zona de residência e o tipo de teste utilizado?
+
+Método: Análise de correspondência múltipla ou modelos log-lineares.
+
+Trimestre Gestacional x Escolaridade x Adesão do Parceiro ao Tratamento:
+Qual é o impacto combinado do trimestre gestacional e da escolaridade na adesão do parceiro ao tratamento?
+
+Método: Análise de interações em regressão logística.
+
+Zona de Residência x Escolaridade x Esquema de Tratamento:
+As zonas urbanas ou rurais apresentam interações entre escolaridade e esquema de tratamento?
+
+Método: Análise de correspondência múltipla.
+
+
+
+
+
+================================================ Análises por Subgrupos =============================================================
+5. Análises por Subgrupos
+Escolaridade e Tratamento:
+Existe diferença na adesão ao tratamento entre mulheres de diferentes níveis de escolaridade?
+
+Risco por Zona de Residência:
+As gestantes de zonas urbanas têm maior probabilidade de ser diagnosticadas no primeiro trimestre?
+
+Disparidades Raciais:
+Há diferenças significativas no tipo de tratamento recebido ou no diagnóstico precoce entre raças?
+
+
+

@@ -10,6 +10,39 @@ TPESQUEMA   ==>     Esquema de tratamento (41)
 TRATPARC    ==>     Tratamento do parceiro (42)
 
 
+
+
+
+DT_NOTIFIC  ==>     Data da notificação (3)
+NU_ANO      ==>     Ano da notificação 
+ID_UNIDADE  ==>     Código da UBS (6)
+DT_DIAG     ==>
+NU_IDADE_N  ==>
+CS_GESTANT  ==>     Trimestre gestacional do diagnóstico (12)
+CS_RACA     ==>     Raça da gestante (13)
+CS_ESCOL_N  ==>     Grau de escolaridade da gestante (14)
+CS_ZONA     ==>     Zona de residência (29)
+TPCONFIRMA  ==>
+TPESQUEMA   ==>     Esquema de tratamento (41)
+TPMOTPARC   ==>
+TPESQPAR    ==>
+TRATPARC    ==>     Tratamento do parceiro (42)
+CLASSI_FIN  ==>
+
+
+
+
+
+Escolaridade:
+{
+    0: Analfabeto.
+    <4 : Estudaram mas, não concluiram o ensino fundamental.
+    6>x>=4 : Fez o fundamental Não concluiu o ensino médio.
+    7>x>=6 : Fez o médio mas não concluiu o superior.
+    x = 8 : Fizeram o ensino superior.
+}
+
+
 1352 pessoas foram às UBSs fazer teste de sífilis elas tem diversos [Quem são as amostragens]:
 {
 Graus de esocolaridade

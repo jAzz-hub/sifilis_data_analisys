@@ -22,13 +22,58 @@ CS_GESTANT  ==>     Trimestre gestacional do diagnóstico (12)
 CS_RACA     ==>     Raça da gestante (13)
 CS_ESCOL_N  ==>     Grau de escolaridade da gestante (14)
 CS_ZONA     ==>     Zona de residência (29)
-TPCONFIRMA  ==>
 TPESQUEMA   ==>     Esquema de tratamento (41)
-TPMOTPARC   ==>
-TPESQPAR    ==>
 TRATPARC    ==>     Tratamento do parceiro (42)
-CLASSI_FIN  ==>
 
+
+1 A grávida com sífilis foi notificada depois do segundo mês?
+
+2 TRATAMENTO FOI REALIZADO COM PENINSILINA OU NÃO NA GESTANTE?
+
+3 TRATAMENTO FOI REALIZADO COM PENINSILINA OU NÃO NO PARCEIRO?
+
+4 TRATAMENTO FOI REALIZADO COM PENINSILINA OU NÃO NA GESTANTE?
+
+5 A COR DA PELE É NEGRA OU PARDA OU NÃO?
+
+Para gerar as funções, considere a legenda:
+CS_GESTANT  ==>     Trimestre gestacional do diagnóstico : 1 ou 2 significa que fez o teste antes do segundo trimestre 
+CS_RACA     ==>     Raça da gestante : preta ou parda se tiver 2 ou 4, para qualquer outro número não é preta ou parda
+CS_ZONA     ==>     Zona de residência : 1 urbana 2 rural
+TPESQUEMA   ==>     Esquema de tratamento :  1 ou 2 ou 3 para uso de peninsilina e 5 ou 4 para não uso de peninsilina
+TRATPARC    ==>     Tratamento do parceiro :  1 ou 2 ou 3 para uso de peninsilina e 5 ou 4 para não uso de peninsilina
+
+Considere também a função abaixo:
+def categorizar_raca(x):
+    if x == 1:
+        return 'Branca'
+    elif x == 2:
+        return 'Preta'
+    elif x == 3:
+        return 'Amarela'
+    elif x == 4:
+        return 'Parda'
+    elif x == 5:
+        return 'Indígena'
+    elif x == 9:
+        return 'Ignorado'
+    else:
+        return 'Outro'
+
+
+
+
+
+NEGRO	TRATAMENTO COM PENINSILINA	NOTIFICADA DEPOIS DO SEGUNDO MES
+0		0				1
+1		1				1
+1		0				0
+1		1				1
+0		0				0
+1		1				0
+0		1				0
+1		1				0
+0		1				1
 
 
 

@@ -10,7 +10,7 @@ TPESQUEMA   ==>     Esquema de tratamento (41)
 TRATPARC    ==>     Tratamento do parceiro (42)
 
 
-
+engenortedados@gmail.com
 
 
 DT_NOTIFIC  ==>     Data da notificação (3)
@@ -108,3 +108,31 @@ Tipos de testes utilizados
 Esquemas de tratamentos
 Tratamentos dos parceiros
 }
+
+
+
+
+
+
+TratamentoParceiro                              
+2 - Penicilina G benzantina 4.800.000 UI
+
+1 - Penicilina G benzantina 2.400.000 UI
+
+9 - Ignorado
+
+
+
+Tratamento
+1 - Penicilina G benzantina 2.400.000 UI
+
+2 - Penicilina G benzantina 4.800.000 UI
+
+3 - Penicilina G benzantina 7.200.000 UI
+
+4 - Outro esquema
+
+5 - Não realizado
+
+9 - Ignorado
+

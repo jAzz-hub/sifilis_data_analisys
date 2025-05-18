@@ -3,7 +3,12 @@ Generation of statistics on syphilis data collected from syphilis tests on UBS p
 
 📊 Access the report [here](https://github.com/jAzz-hub/sifilis_data_analisys/blob/main/Documentation/An%C3%A1lise_de_Dados_TCC_S%C3%ADfilis_Gestacional_em_Montes_Claros_e_seus_Munic%C3%ADpios.pdf)
 
+Please suggest upgrades and keep in touch across the joaogu.2001@gmail.com or just open an issue.
+
+
 # Análise de Dados em Gestantes com Sífilis
-Gerando estatísticas sobre casos de gestantes com testadas como positivo para sífilis em Unidades Básicas de Saúde(UBS) de Montes Claros - MG e seus municípios.
+Gerando estatísticas sobre casos de gestantes testadas notificadas como portadoras de sífilis em Unidades Básicas de Saúde(UBS) de Montes Claros - MG e seus municípios.
 
 📊 Acesse o relatório gerado [aqui](https://github.com/jAzz-hub/sifilis_data_analisys/blob/main/Documentation/An%C3%A1lise_de_Dados_TCC_S%C3%ADfilis_Gestacional_em_Montes_Claros_e_seus_Munic%C3%ADpios.pdf)
+
+Por favor sugira novas melhorias e mantenha contato através de joaogu.2001@gmail.com ou apenas abra uma issue.

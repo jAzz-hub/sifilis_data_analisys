@@ -136,3 +136,78 @@ Tratamento
 
 9 - Ignorado
 
+
+
+
+TPMOTPARC - 44
+TPESQPARC - 43
+TRATPARC - 42
+
+Pega trat_Parc conta quantos tipos de resposata cada um teve
+Pega trat_Parc conta quantos tipos de resposata cada um teve
+Pega trat_Parc conta quantos tipos de resposata cada um teve
+
+Os gráficos azuis
+
+
+Colunas em branco:	
+Zona residencial	-
+Raça			-
+Escolaridade 	      	-
+Esquema de Tratamento 	- TPESQUEMA
+
+
+
+
+Gerar os 3 gráficos pedidos na forma que foi pedida do ZAP.
+Atualizar a tabela considerando que os Nan na verdade são chamados de Em branco.
+Terminar de formatar a tabela com 
+
+TPMOTPARC - 44
+TPESQPARC - 43
+TRATPARC - 42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\midrule
+\textbf{Parceiro  tratado  concomitantemente à gestante} 
+|| Sim || 217 || 28,85 \\
+|| Não || 460 || 61,17 \\ 
+|| Ignorado || 68 || 30,24\\ 
+|| Em branco || 7 || 61,60\\ 
+
+
+\midrule
+\textbf{Esquema de tratamento prescrito ao parceiro} 
+|| Não Realizado || 417 || 55,5 \\
+|| PGB 7200000 UI || 103 || 13,7 \\ 
+|| PGB 2400000 UI || 89 || 11,8\\ 
+|| PGB 4800000 UI || 33 || 4,4\\ 
+|| Outro Esquema || 17 || 2,3\\ 
+|| Ignorado || 76 || 10,1\\
+|| Em branco || 17 || 2,3\\
+
+
+
+\midrule
+\textbf{Motivo  para o não tratamento do Parceiro} 
+|| Parceiro não teve mais contato com a gestante || 58 || 7,7 \\
+||  Parceiro não foi comunicado/convocado à US para tratamento 7200000 UI || 20 || 2,7 \\ 
+|| Parceiro foi comunicado/convocado à US para tratamento, mas não compareceu || 35 || 4,7\\ 
+|| Parceiro foi comunicado/convocado à US mas recusou o tratamento || 10 || 1,3\\ 
+|| Parceiro com sorologia não reagente || 20 || 2,7\\ 
+|| Não Informado || 496 || 66,00\\
+|| Outro Motivo || 113 || 15,0\\
